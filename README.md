@@ -1,7 +1,7 @@
 ###### [English](./README-en.md) | 日本語
 # MLP-8_probabilityInequality
 
-『MLP 機械学習の為の確率と統計』第8章を勉強するために使用したソースコード。
+『MLP 機械学習の為の確率と統計』第8章を勉強するために使用したソースコード。  <img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=3D&logoColor=0000dd">
 
 ### 目次
 
