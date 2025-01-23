@@ -10,7 +10,7 @@
 | 8-2-1. | マルコフの不等式                     | Markov.py      | :white_check_mark: |
 |        | チェルノフの不等式                   | Chernoff.ipynb | :construction: |
 | 8-2-2. | カンテリの不等式                     |  |  |
-|        | チェビシェフの不等式                 |  |  |
+|        | チェビシェフの不等式                 | Chebyshev.ipynb | :construction: |
 | 8-3-1. | イェンセンの不等式                   |  |  |
 | 8-3-2. | ヘルダーの不等式                     |  |  |
 |        | シュワルツの不等式                   |  |  |
